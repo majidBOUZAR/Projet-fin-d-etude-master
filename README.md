@@ -7,3 +7,6 @@ to run this project :
 - run app : 'streamlit run app.py'
 
 you can update or alter model CNN or the preprocessing in the file 'version_finale_dl.ipynb'
+- preferably use kaggle to avoid downloading dataset
+- dataset link :  https://www.kaggle.com/awsaf49/brats20-dataset-training-validation
+- the "model_x1_1.h5" model is the pretrained model integrated into the app
