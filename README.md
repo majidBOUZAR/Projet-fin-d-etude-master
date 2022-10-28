@@ -5,3 +5,5 @@ to run this project :
 - open the folder in VScode 
 - install the requirements : 'pip install -r requirements.txt'
 - run app : 'streamlit run app.py'
+
+you can update or alter model CNN or the preprocessing in the file 'version_finale_dl.ipynb'
